@@ -1,3 +1,5 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/wizardigor/igorgomes.eti.br-site-pessoa)
+
 # Personal Website 
 
 Este é meu site atual, estou disponibilizando para que possam usar o template ou que venha contribuir melhorando.  
