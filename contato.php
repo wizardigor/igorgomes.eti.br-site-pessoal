@@ -132,15 +132,15 @@ if (isset($_POST['bt-enviar'])) {
     $assunto = $_POST['assunto'];
     $message = $_POST['text'];
     //Remetente-> esse email tem que ser valido do dominio (uma conta de email do seu dominio)
-    $email_remetente = 'contato@igorgomes.eti.br';
+    $email_remetente = 'contato@dominio.com.br';
 
 
 
 
     //Configurações do email
-    $email_destinatario = 'igorgomesads@gmail.com'; //pode ser qualquer email que receberá a mensagem
+    $email_destinatario = 'seu-email@gmail.com'; //pode ser qualquer email que receberá a mensagem
     $email_reply = $email;
-    $email_assunto = "$pagina - Igor Gomes ETI"; //esse será o assunto da mensagem
+    $email_assunto = "$pagina - Igor Gomes"; //esse será o assunto da mensagem
 
     //Montando o corpo da mensagem
     $email_conteudo = "Nome: $name \n";
