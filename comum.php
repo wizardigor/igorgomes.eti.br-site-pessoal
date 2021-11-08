@@ -95,7 +95,7 @@ class Comum{
         return ("
             <nav class='navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target' id='ftco-navbar'>
             <div class='container'>
-                <a class='navbar-brand' href='". $this->prefixo ."index.php'><img src='". $this->prefixo ."images/igeti5.png' alt='Igor Gomes - ETI' height='50'></a>
+                <a class='navbar-brand' href='". $this->prefixo ."index.php'><img src='". $this->prefixo ."images/igeti.png' alt='Igor Gomes - ETI' height='50'></a>
                 <button class='navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle' type='button' data-toggle='collapse' data-target='#ftco-nav' aria-controls='ftco-nav' aria-expanded='false' aria-label='Toggle navigation'>
                     <span class='oi oi-menu'></span> Menu
                 </button>
@@ -195,7 +195,6 @@ class Comum{
                     <div class='block-23 mb-3'>
                         <ul>
                             <li><span class='text'>Fortaleza, Ce. Brasil</span></li>
-                            <li><a href='tel:"._WHATSAPP."' target='blank'><span class='text'>(85) 92000-6476 (apenas whatsapp)</span></a></li>
                             <li><a href='https://wa.me/"._TELEFONE."' target='blank'><span class='text'>WhatsApp<br>(85) 92000-6476</span></a></li>
                             <li><a href='mailto:"._EMAIL."?subject=Contato_Igor_Gomes_ETI' title='Contato para Igor gomes ETI' target='blank'><span class='text'>"._EMAIL."</span></a></li>
                         </ul>
