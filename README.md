@@ -1,4 +1,4 @@
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/wizardigor/igorgomes.eti.br-site-pessoa)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/wizardigor/igorgomes.eti.br-site-pessoal)
 
 # Personal Website 
 
