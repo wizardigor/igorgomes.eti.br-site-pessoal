@@ -37,7 +37,7 @@ $comum->setPagina("Downloads");
             </div>
             <div class="row d-flex">
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://raboninco.com/23685467/dreamweaver-c6" class="block-20" style="background-image: url('images/dw.png');" target="blank">
                         </a>
@@ -57,7 +57,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4  ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/ativador-win10" class="block-20" style="background-image: url('images/winoff.jpg');" target="blank">
                         </a>
@@ -76,7 +76,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/ativador-win7" class="block-20" style="background-image: url('images/win7.jpg');" target="blank">
                         </a>
@@ -95,7 +95,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/corel-x5" class="block-20" style="background-image: url('images/corelx5.jpg');" target="blank">
                         </a>
@@ -114,7 +114,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4  ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/corel-x9" class="block-20" style="background-image: url('images/corelx9.jpg');" target="blank">
                         </a>
@@ -135,7 +135,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/drive-boster-licenca" class="block-20" style="background-image: url('images/driveboster.jpg');" target="blank">
                         </a>
@@ -154,7 +154,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/hirens-boot" class="block-20" style="background-image: url('images/hirens.jpg');" target="blank">
                         </a>
@@ -173,7 +173,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/office2007" class="block-20" style="background-image: url('images/office2007.jpg');" target="blank">
                         </a>
@@ -192,7 +192,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/office2016-pro-plus" class="block-20" style="background-image: url('images/off2016.jpg');" target="blank">
                         </a>
@@ -212,7 +212,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/photoshop-portable" class="block-20" style="background-image: url('images/psportable.jpg');" target="blank">
                         </a>
@@ -231,7 +231,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/rufus" class="block-20" style="background-image: url('images/rufus.jpg');" target="blank">
                         </a>
@@ -250,7 +250,7 @@ $comum->setPagina("Downloads");
                     </div>
                 </div>
 
-                <div class="col-md-4 d-flex ftco-animate">
+                <div class="col-md-4 ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <a href="http://q.gs/23685467/autocad-2020" class="block-20" style="background-image: url('images/autocad2020.jpg');" target="blank">
                         </a>
@@ -274,7 +274,7 @@ $comum->setPagina("Downloads");
                 </div>
 
                 
-                <div class="col-md-12 d-flex ftco-animate">
+                <div class="col text-center ftco-animate">
                     <div class="blog-entry justify-content-end">
                         <?php echo $comum->getAmazon(); ?>
                     </div>
