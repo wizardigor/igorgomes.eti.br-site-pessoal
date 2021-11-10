@@ -49,9 +49,9 @@ $comum->setPagina("Sobre");
                                 <a href="https://www.locabox.com.br/" target="blank">ITP</a>, 
                                 <a href="https://www.locabox.com.br/" target="blank">Move Mais</a> e 
                                 <a href="https://www.locabox.com.br/" target="blank">Locservice</a> 
-                                (grupo de empresas), este grupo fabrica, aluga, transporta e monta Modulos Habitaveis para
+                                (grupo de empresas), este grupo fabrica, aluga, transporta e monta Módulos Hábitaveis para
                                 <i>Instituições de Ensino, Hospitais, Polícias, Bombeiros ect</i>.<br>
-                                Sou responsavel por Gerênciar a equipe de TI e manter os sistemas interno da empresa aissim como
+                                Sou responsavel por Gerenciar a equipe de TI e manter os sistemas interno da empresa aissim como
                                 os meios de comunicação web e componentes de informática.
                             </p>
                             <p>
