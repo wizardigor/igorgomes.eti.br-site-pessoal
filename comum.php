@@ -124,8 +124,13 @@ class Comum{
         <div id='carouselFoot' class='carousel slide carousel-fade col-md-4' data-ride='carousel'>
             <div class='carousel-inner'>
                 <div class='carousel-item text-center align-middle active'>
-                <a href='https://www.hostg.xyz/SH7N3' target='_blank'>
-                <img src='https://media.go2speed.org/brand/files/hostinger/6/PT-300x250.jpg' alt='Hostinger' />
+                    <a href='https://www.hostg.xyz/SH7N3' target='_blank'>
+                    <img src='https://media.go2speed.org/brand/files/hostinger/6/PT-300x250.jpg' alt='Hostinger' />
+                    </a>
+                </div>
+                <div class='carousel-item text-center align-middle active'>
+                    <a href='https://www.hostg.xyz/SH7N3' target='_blank'>
+                    <img src='https://media.go2speed.org/brand/files/hostinger/6/PT-300x250.jpg' alt='Hostinger' />
                 </a>
                 </div>
                 <div class='carousel-item text-center align-middle'>
@@ -343,6 +348,33 @@ class Comum{
         ";
     }
 
+    function getDio(){
+        echo "        
+        <div id='carouselDio' class='carousel carousel-fade' data-ride='carousel'>
+            <div class='carousel-inner'>
+                <div class='carousel-item text-center align-middle active'>
+                    <a href='https://digitalinnovation.one/sign-up?ref=5JCFE67IJX' target='_blank'>
+                    <img class='d-block w-100' src='". $this->prefixo ."images/dio.jpg' alt='anuncio Digital Innovation One'>
+                    </a>
+                </div>
+                
+            </div>
+            </div>
+    
+            
+            <!-- Botoes -->
+            <a class='carousel-control-prev' href='#carouselDio' role='button' data-slide='prev'>
+                <span class='carousel-control-prev-icon' aria-hidden='true'></span>
+                <span class='sr-only'>Anterior</span>
+            </a>
+            <a class='carousel-control-next' href='#carouselDio' role='button' data-slide='next'>
+                <span class='carousel-control-next-icon' aria-hidden='true'></span>
+                <span class='sr-only'>Proximo</span>
+            </a>
+        </div>
+        ";
+    }
+
     function getFavoritas(){
         echo "        
         <div id='carouselFav' class='carousel carousel-fade' data-ride='carousel'>
@@ -476,6 +508,8 @@ class Comum{
 
     //ANUNCIOS DA BARRA LATERAL
     function getAnuncioLateral(){
+        $this->getDio();
+        echo '<br>';
         $this->getFavoritas();
         echo '<br>';
         $this->getLS_1080();
