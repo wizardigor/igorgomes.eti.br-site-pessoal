@@ -49,6 +49,19 @@ $comum->setPagina("Projetos");
                 <!-- LINHA 1 1x3 (UMA LINHA TRES COLUNAS)-->
                 <!-- IMAGEM QUADRADA -->
                 <div class="col-md-4">
+                    <a href="https://drive.google.com/file/d/1xCeAVTOOwUmZvgyjGMswDVrv--_umch7/view?usp=sharing" target="blank">
+                        <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/cvm.jpg);">
+                            <div class="overlay"></div>
+                            <div class="text text-center p-4">
+                                <h3>Carteira de Vacinação Animal</h3>
+                                <span>Design</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- IMAGEM QUADRADA -->
+                <div class="col-md-4">
                     <a href="http://covid19.igorgomes.eti.br" target="blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-covid-19.jpg);">
                             <div class="overlay"></div>
