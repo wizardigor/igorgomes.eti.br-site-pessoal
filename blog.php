@@ -39,6 +39,24 @@ $comum->setPagina("Blog");
 
                 <div class="col-md-4 d-flex ftco-animate">
                     <div class="blog-entry justify-content-end">
+                    <a href="blogs/home-school.php" target="_blank" class="block-20" style="background-image: url('images/h-s.jpg');"></a>
+                        <div class="text mt-3 float-right d-block">
+                            <div class="d-flex align-items-center mb-3 meta">
+                                <p class="mb-0">
+                                    <span class="mr-2">17 de março 2022</span>
+                                    <a href="#" class="mr-2">Admin</a>
+                                    <a href="#" class="meta-chat"><span class="icon-chat"></span> </a>
+                                </p>
+                            </div>
+                            <h3 class="heading"><a href="blogs/app-developing.php">Home School - Estratégia</a></h3>
+                            <p>Emsinando seus filhos em casa com home school.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 d-flex ftco-animate">
+                    <div class="blog-entry justify-content-end">
                         <a href="http://13gecristoredentor.com.br" target="_blank" class="block-20" style="background-image: url('images/13gecre1080.jpg');"></a>
                         <div class="text mt-3 float-right d-block">
                             <div class="d-flex align-items-center mb-3 meta">
