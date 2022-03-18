@@ -49,7 +49,7 @@ $comum->setPagina("Projetos");
                 <!-- LINHA 1 1x3 (UMA LINHA TRES COLUNAS)-->
                 <!-- IMAGEM QUADRADA -->
                 <div class="col-md-4">
-                    <a href="https://drive.google.com/file/d/1xCeAVTOOwUmZvgyjGMswDVrv--_umch7/view?usp=sharing" target="blank">
+                    <a href="https://drive.google.com/file/d/1xCeAVTOOwUmZvgyjGMswDVrv--_umch7/view?usp=sharing" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/cvm.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -62,7 +62,7 @@ $comum->setPagina("Projetos");
 
                 <!-- IMAGEM QUADRADA -->
                 <div class="col-md-4">
-                    <a href="http://covid19.igorgomes.eti.br" target="blank">
+                    <a href="http://covid19.igorgomes.eti.br" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-covid-19.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -75,7 +75,7 @@ $comum->setPagina("Projetos");
 
                 <!-- IMAGEM QUADRADA -->
                 <div class="col-md-4">
-                    <a href="http://igorgomes.eti.br/projetos/biblioteca/" target="blank">
+                    <a href="http://igorgomes.eti.br/projetos/biblioteca/" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-biblioteca.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -88,7 +88,7 @@ $comum->setPagina("Projetos");
 
                 <!-- IMAGEM QUADRADA -->
                 <div class="col-md-4">
-                    <a href="http://igorgomes.eti.br/projetos/imc/" target="blank">
+                    <a href="http://igorgomes.eti.br/projetos/imc/" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-imc.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -101,7 +101,7 @@ $comum->setPagina("Projetos");
 
                 <!-- IMAGEM QUADRADA -->
                 <div class="col-md-4">
-                    <a href="http://igorgomes.eti.br/blogs/card-interativo.php" target="blank">
+                    <a href="http://igorgomes.eti.br/blogs/card-interativo.php" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/cartao-interativo/0.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -114,7 +114,7 @@ $comum->setPagina("Projetos");
 
                 <!--IMAGEM EXTENDIDA-->
                 <div class="col-md-4">
-                    <a href="https://www.locabox.com.br/" target="blank">
+                    <a href="https://www.locabox.com.br/" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-locabox.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -126,11 +126,11 @@ $comum->setPagina("Projetos");
                 </div>
                 
                 <div class="col-md-4">
-                    <a href="https://app.locabox.com.br/" target="blank">
-                        <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-app-erp.png);">
+                    <a href="https://erp.locabox.com.br/" target="_blank">
+                        <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-erp.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
-                                <h3><a href="http://app.locabox.com.br/">Sistema de ERP Locabox</a></h3>
+                                <h3>Sistema de ERP Locabox</h3>
                                 <span>Web Design & Web Developer</span>
                             </div>
                         </div>
@@ -140,7 +140,7 @@ $comum->setPagina("Projetos");
 
                 <!-- IMAGEM QUADRADA -->
                 <div class="col-md-4">
-                    <a href="http://kiki.locabox.com.br/" target="blank">
+                    <a href="http://kiki.locabox.com.br/" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/proj-kiki.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -152,7 +152,7 @@ $comum->setPagina("Projetos");
                 </div>
 
                 <div class="col-md-4">
-                    <a href="http://thais.igorgomes.eti.br/" target="blank">
+                    <a href="http://thais.igorgomes.eti.br/" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/mulher-de-luz.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
@@ -164,7 +164,7 @@ $comum->setPagina("Projetos");
                 </div>
 
                 <div class="col-md-4">
-                    <a href="http://hmc.log.br/" target="blank">
+                    <a href="/hmc" target="_blank">
                         <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/hmc.jpg);">
                             <div class="overlay"></div>
                             <div class="text text-center p-4">
